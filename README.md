@@ -1,4 +1,4 @@
-﻿# TAT_reduction# Truck Turnaround Time (TAT) Analysis and Reduction
+# Truck Turnaround Time (TAT) Analysis and Reduction
 
 Python analysis of truck turnaround time across 4 FMCG warehouses, with root-cause analysis and an optimisation model to reach a 3.0-hour TAT target.
 
